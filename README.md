@@ -1,1 +1,1 @@
-# redux-example
+Simple example for explaining redux.
